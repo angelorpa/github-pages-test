@@ -32,7 +32,7 @@ domain: angelorpa.github.io
 url: https://angelorpa.github.io
 
 # place folder name if the site is served in a subfolder
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/github-pages-test/" # the subpath of your site, e.g. /blog
 
 twitter_username: jekyllrb
 github_username:  jekyll
